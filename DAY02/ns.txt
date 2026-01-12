@@ -7,19 +7,12 @@ ReplicaSet
 DaemonSet
 Deployment
 StatefulSet
-
 namespace
-
-
-
 ConfigMap
 Secret
-
 Service
 NetworkPolicies
 Ingress
-
-
 PersistentVolumeClaim
 PersistentVolume
 
